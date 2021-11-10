@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+          <title>Hello World</title>
+          <subtitle>for ContentServer2 test</subtitle>
+          <link>www.google.com</link>
+          <updated>2021-09-07Ta:30:02Z</updated>
+          <author>
+                    <name>Huatao Dong</name>
+          </author>
+          <id>urn::uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+          <entry>
+                    <title>test for entry</title>
+                    <link>www.cs.adelaide.edu.au/users/third/ds/</link>
+                    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+                    <updated>2021-08-07T18:30:02Z</updated>
+                    <summary>here is the summary.</summary>
+          </entry>
+</feed>
